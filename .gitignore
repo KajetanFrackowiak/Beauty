@@ -1,0 +1,16 @@
+# Ignore configation direcotires and files
+/config
+/.idea
+
+# Ignoore Python cache files
+/__pycache__/
+/*.pyc
+
+
+# Environment and credentials
+.env
+credential_key.json
+token.json
+
+# Ignore executable files
+chromedriver.exe
